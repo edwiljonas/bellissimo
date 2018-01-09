@@ -1,0 +1,21 @@
+blockquote{
+  box-sizing: border-box;
+  padding: 0 0 0 30px;
+  p{
+    box-sizing: border-box;
+    border-left: 3px solid #2b2b2b;
+    padding: 5px 0 5px 15px;
+    font-size: 20px !important;
+    line-height: 25px !important;
+  }
+}
+.single-post{
+  .breadcrumb-holder{
+    background: rgba(0,0,0,0.3) !important;
+    *{
+      color: #FFF !important;
+      text-transform: uppercase !important;
+      font-size: 10px !important;
+    }
+  }
+}

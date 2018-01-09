@@ -1,0 +1,17 @@
+/*
+Theme Name:         Bellissimo
+Theme URI:          http://knackthemes.com/bellissimo/
+Description:        Bellissimo is a customizable WordPress theme that allows you to create.
+Version:            1.0.6
+Author:             KnackThemes
+Author URI:         http://knackthemes.com/
+Text Domain:        knack
+License URI:        http://knackthemes.com/
+*/
+.wp-caption-text,
+.screen-reader-text,
+.gallery-caption,
+.bypostauthor,
+.alignright,
+.alignleft,
+.aligncenter{}

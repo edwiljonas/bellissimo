@@ -1,0 +1,9 @@
+[data-element^="knack_shortcode_"]{
+  background-color: #2E6382 !important;
+  &:hover{
+    background-color: #2E6382  !important;
+  }
+  *{
+    color: #FFF !important;
+  }
+}

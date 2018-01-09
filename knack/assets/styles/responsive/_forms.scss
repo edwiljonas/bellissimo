@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .woocommerce-MyAccount-content {
+    width: 100% !important;
+    .woocommerce-address-fields{
+      > p{
+        display: table !important;
+        width: 100% !important;
+      }
+    }
+  }
+}

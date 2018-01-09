@@ -1,0 +1,32 @@
+// Automatically injected Bower dependencies via wiredep (never manually edit this block)
+// bower:scss
+@import "../../../bower_components/bootstrap/scss/bootstrap.scss";
+// endbower
+@import "layouts/misc";
+@import "layouts/header";
+@import "layouts/sidebar";
+@import "layouts/footer";
+@import "layouts/content";
+@import "layouts/posts";
+@import "layouts/woo";
+@import "layouts/owl";
+@import "layouts/popup";
+@import "admin/loader";
+@import "layouts/tinymce";
+@import "layouts/forms";
+
+@import "responsive/woo";
+@import "responsive/header";
+@import "responsive/footer";
+@import "responsive/content";
+@import "responsive/logo";
+@import "responsive/forms";
+
+@media (min-width: 601px) and (max-width: 768px) {
+  .admin-bar{
+    .knack-intro-slider,
+    .knack-navigation{
+      //top: 46px;
+    }
+  }
+}
